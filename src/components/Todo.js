@@ -6,6 +6,6 @@ const Todo = ({ todo }) => {
         </div>
     )
 }
+// this makes todo components that will populate in the list in App.js
 
 export default Todo
-
