@@ -1,5 +1,7 @@
 # Getting Started with Create React App
 
+** code commented for learning purposes! **
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 This project was based on Traversy Media's [React JS Crash Course](https://youtu.be/w7ejDZ8SWv8). Please watch their video before attempting to work through this code. 
